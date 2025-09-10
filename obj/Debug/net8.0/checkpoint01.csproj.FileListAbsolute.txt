@@ -1,0 +1,7 @@
+D:\cp01\checkpoint01\obj\Debug\net8.0\checkpoint01.csproj.AssemblyReference.cache
+D:\cp01\checkpoint01\obj\Debug\net8.0\checkpoint01.GeneratedMSBuildEditorConfig.editorconfig
+D:\cp01\checkpoint01\obj\Debug\net8.0\checkpoint01.AssemblyInfoInputs.cache
+D:\cp01\checkpoint01\obj\Debug\net8.0\checkpoint01.AssemblyInfo.cs
+D:\cp01\checkpoint01\obj\Debug\net8.0\checkpoint01.csproj.CoreCompileInputs.cache
+D:\cp01\checkpoint01\obj\Debug\net8.0\checkpoint01.MvcApplicationPartsAssemblyInfo.cs
+D:\cp01\checkpoint01\obj\Debug\net8.0\checkpoint01.MvcApplicationPartsAssemblyInfo.cache
